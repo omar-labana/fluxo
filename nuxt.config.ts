@@ -6,4 +6,7 @@ export default defineNuxtConfig({
   veeValidate: {
     autoImports: true,
   },
+  vite: {
+    base: "/fluxo/",
+  },
 });
