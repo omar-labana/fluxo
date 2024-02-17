@@ -16,9 +16,9 @@
         <div class="text-gray-500 fw-semibold fs-4">
           New Here?
 
-          <router-link to="/sign-up" class="link-primary fw-bold">
+          <div to="/sign-up" class="link-primary fw-bold">
             Create an Account
-          </router-link>
+          </div>
         </div>
         <!--end::Link-->
       </div>
@@ -61,9 +61,9 @@
           <!--end::Label-->
 
           <!--begin::Link-->
-          <router-link to="/password-reset" class="link-primary fs-6 fw-bold">
+          <div to="/password-reset" class="link-primary fs-6 fw-bold">
             Forgot Password ?
-          </router-link>
+          </div>
           <!--end::Link-->
         </div>
         <!--end::Wrapper-->
